@@ -32,3 +32,6 @@ Now have virtual box and we have the kali linux iso file now we want to import t
 ![image](https://github.com/Jagadeesh1407/Task1/assets/133744331/56b44c3d-a8f6-47ab-b06a-52af0fb95373)
 
 Now we have successfully install our own virtual lab.
+
+![home kali](https://github.com/Jagadeesh1407/Task1/assets/133744331/a7d8a989-132d-40fe-85f0-9d3dca73eaf2)
+
